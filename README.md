@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Hi! I'm musishian and beginner developer on Python and C++!
+### Hi! I'm musisian and beginner developer on Python and C++!
 
 <!--
 **MichaelGuitarDude/MichaelGuitarDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
